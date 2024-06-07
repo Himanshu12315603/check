@@ -1,0 +1,19 @@
+.btn {
+    background-color: rgb(182, 182, 230);
+    justify-content: center;
+    border: 2px solid rgb(76, 78, 76);
+    border-radius: 20px;
+    justify-content: center;
+    height: 50px;
+    width: 70px;
+
+}
+#pic {
+    background-image: url('https://www.hrccu.org/wp-content/uploads/2020/05/spending-habits-financial-savings-for-families-1.jpg');
+    height: 800px;
+    width: 1400px;
+    background-repeat: none;
+    border: 2px solid rgb(200, 62, 62);
+    background-repeat: no-repeat;
+    border-radius: 90px;
+}

@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: right;
+    
+}
+/* 
+.navi {
+    background-color: black;
+    color: #fff;
+    text-decoration: none;
+    width: 800px;
+    padding: 0%;
+    margin: auto;
+} */
+
+
+input[type="file"] {
+    
+}
